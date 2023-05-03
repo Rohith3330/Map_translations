@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481543411995",
+    "project_id": "samp-44af2",
+    "storage_bucket": "samp-44af2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481543411995:android:aee34ef41e6c236c845bbe",
+        "android_client_info": {
+          "package_name": "com.Rohith_.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481543411995-fp9l6jg1a9e9882bqhe95f0bo90a7ltl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzMGsIFj79PBLfK1Ax23K3TYZY-8QdZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481543411995-fp9l6jg1a9e9882bqhe95f0bo90a7ltl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
